@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 概要
+[YouTube](https://www.youtube.com/watch?v=ANcopd8Bmao)を参考にTODOリストを作成
 ## Available Scripts
 
 In the project directory, you can run:
